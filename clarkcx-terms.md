@@ -41,23 +41,25 @@ You own the graphics and other visual elements created for you for this project.
 
 ## Cost of work and payment terms
 
-On agreement of a project’s requirements and associated cost I will invoice you for 50% of the total to be paid before work begins. The project will be added to my work schedule _after receipt of your deposit payment._ Following the deposit, I will invoice you monthly for work carried out within that calendar month. Alternatively I may, at my discretion, invoice at certain project milestones. All regular project invoices after the deposit will become due for payment after 15 days. 
+On agreement of a project’s requirements and associated cost I will invoice you for 50% of the total to be paid before work begins. The project will be added to my work schedule _after receipt of your deposit payment._ 
+
+Following the deposit, I will invoice you monthly for work carried out within that calendar month. Alternatively I may, at my discretion, invoice at certain project milestones. All regular project invoices after the deposit will become due for payment after 15 days. 
 
 ### Late payment charges
 
 Invoices that remain unpaid after 30 days will be subject to [interest](https://www.gov.uk/late-commercial-payments-interest-debt-recovery/charging-interest-commercial-debt) (8% APR + Bank of England base rate) and [late payment charges](https://www.gov.uk/late-commercial-payments-interest-debt-recovery/claim-debt-recovery-costs) based on the advice given on the gov.uk website.
 
-## Cancellation
+### Cancellation
 
 If for any reason you need to cancel the project after work has commenced I will invoice you for any unbilled time spent up until that point. This invoice will be due for payment upon receipt. Any payments that have already been made are non-refundable.
-
-## Website security
-
-Every effort will be made to provide secure website code but no code is 100% secure and hacking can happen at any level or scale. I shall not be held liable in such cases. If a content management website is provided to you as part of the work, you will be responsible for keeping regular backups and maintaining strong passwords.
 
 ## Errors
 
 I can’t guarantee that the code in any web page templates, themes, plugins or in a completed web site will always be error-free and so I can’t be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this web site and any other web pages, even if you have advised me of the possibilities of such damages.
+
+### Website security
+
+Every effort will be made to provide secure website code but no code is 100% secure and hacking can happen at any level or scale. I shall not be held liable in such cases. If a content management website is provided to you as part of the work, you will be responsible for keeping regular backups and maintaining strong passwords.
 
 ## The contract
 

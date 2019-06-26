@@ -9,7 +9,7 @@ Thank you for choosing to work with me. I appreciate the opportunity and promise
 
 ## In short
 
-You (_$clientLegalName_, _$clientCompanyNumber_) are hiring me (Clark CX Ltd, [08017577](https://beta.companieshouse.gov.uk/company/08017577)) to provide digital development and/or support as set out in one or more numbered estimates / scope of work documents I will provide to you. Unless otherwise agreed in writing I will always give you a fixed cost for a fixed project specification. That means: If it's not on the list of project outputs I've provided, it's not included in the cost. If _you_ have provided the scope of work to _me_ I must have accepted it in writing. If I haven't accepted it in writing, I haven't accepted it at all.
+You (*Client Name*, *Client Company Number*) are hiring me (Clark CX Ltd, [08017577](https://beta.companieshouse.gov.uk/company/08017577)) to provide digital development and/or support as set out in one or more numbered estimates / scope of work documents I will provide to you. Unless otherwise agreed in writing I will always give you a fixed cost for a fixed project specification. That means: If it's not on the list of project outputs I've provided, it's not included in the cost. If _you_ have provided the scope of work to _me_ I must have accepted it in writing. If I haven't accepted it in writing, I haven't accepted it at all.
 
 Of course there’s a few other things we should go over...
 
@@ -59,7 +59,7 @@ I can’t guarantee that the code in any web page templates, themes, plugins or 
 
 ### Website security
 
-Every effort will be made to provide secure website code but no code is 100% secure and hacking can happen at any level or scale. I shall not be held liable in such cases. If a content management website is provided to you as part of the work, you will be responsible for keeping regular backups and maintaining strong passwords.
+Every effort will be made to provide secure website code but no code is 100% secure and hacking can happen at any level or scale. I shall not be held liable in such cases. If a content management website is provided to you as part of a project, you will be responsible for keeping regular backups and maintaining strong passwords.
 
 ## The contract
 
@@ -67,4 +67,4 @@ You cannot transfer this contract to anyone else without my permission. This con
 
 ## Agreement
 
-If the these terms are agreeable I’d be very happy to get on and do some work for you. This contract means we both have something to refer back to if any questions arise in the future. If you have questions, please ask them before signing as this is a legally binding document. These terms may be updated from time to time. As and when this happens you will be sent a new copy of the terms which will supersede this version.
+This contract means we both have something to refer back to if any questions arise in the future. If you have questions, please ask them before signing as this is a legally binding document. These terms may be updated from time to time. As and when this happens you will be sent a new copy of the terms which will supersede this version.

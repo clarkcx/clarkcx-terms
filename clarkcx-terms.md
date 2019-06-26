@@ -5,10 +5,11 @@
 
 ## Introduction 
 
-Thank you for choosing to work with me. I appreciate the opportunity and promise to do my best to meet, and hopefully exceed, your expectations. In the interest of clarity and an effective working arrangement please take a moment to read the following terms of business. 
+Thank you for choosing to work with me. I appreciate the opportunity and promise to do my best to meet, and hopefully exceed, your expectations. In the interest of clarity and an effective working arrangement please take a moment to read the following terms of business as the apply to any and all business dealing between you and me.
+
 ## In short
 
-You ($clientLegalName, $clientCompanyNumber) are hiring me (Clark CX Ltd, 08017577) to provide digital development and/or support as set out in one or more numbered estimates / scope of work documents I have or will provide to you. Unless otherwise agreed in writing I will always give you a fixed cost for a fixed project specification. That means: If it's not on the list of project outputs I've provided, it's not included in the cost. If _you_ have provided the scope of work to me I must have accepted it in writing. If I haven't accepted it in writing, I haven't accepted it at all. These terms apply to any and all business dealing between you and me. 
+You (_$clientLegalName_, _$clientCompanyNumber_) are hiring me (Clark CX Ltd, [08017577](https://beta.companieshouse.gov.uk/company/08017577)) to provide digital development and/or support as set out in one or more numbered estimates / scope of work documents I have or will provide to you. Unless otherwise agreed in writing I will always give you a fixed cost for a fixed project specification. That means: If it's not on the list of project outputs I've provided, it's not included in the cost. If _you_ have provided the scope of work to me I must have accepted it in writing. If I haven't accepted it in writing, I haven't accepted it at all.
 
 Of course there’s a few other things we should go over...
 

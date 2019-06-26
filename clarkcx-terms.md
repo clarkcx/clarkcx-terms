@@ -9,7 +9,7 @@ Thank you for choosing to work with me. I appreciate the opportunity and promise
 
 ## In short
 
-You (_$clientLegalName_, _$clientCompanyNumber_) are hiring me (Clark CX Ltd, [08017577](https://beta.companieshouse.gov.uk/company/08017577)) to provide digital development and/or support as set out in one or more numbered estimates / scope of work documents I have or will provide to you. Unless otherwise agreed in writing I will always give you a fixed cost for a fixed project specification. That means: If it's not on the list of project outputs I've provided, it's not included in the cost. If _you_ have provided the scope of work to me I must have accepted it in writing. If I haven't accepted it in writing, I haven't accepted it at all.
+You (_$clientLegalName_, _$clientCompanyNumber_) are hiring me (Clark CX Ltd, [08017577](https://beta.companieshouse.gov.uk/company/08017577)) to provide digital development and/or support as set out in one or more numbered estimates / scope of work documents I will provide to you. Unless otherwise agreed in writing I will always give you a fixed cost for a fixed project specification. That means: If it's not on the list of project outputs I've provided, it's not included in the cost. If _you_ have provided the scope of work to _me_ I must have accepted it in writing. If I haven't accepted it in writing, I haven't accepted it at all.
 
 Of course there’s a few other things we should go over...
 
@@ -19,13 +19,19 @@ I have the experience and ability to perform the services you need from me and I
 
 ## The work
 
-DIGITAL DEVELOPMENT: You may ask me to develop certain digital asset(s) (e.g. a WordPress theme and/or plugins) for your use or the use of your direct client. I will provide you with a cost estimate for this work based on the information and design files you provide to me. If you amend the requirements or design after the estimate is provided to you there may be additional costs. I will always ask for your approval prior to carrying out work that will incur additional costs.
+There are various types of work I may undertake for you including the following.
 
-AD-HOC SUPPORT: You may ask me to provide ad-hoc support for you and your team which relates to a live website or digital product I have worked on. This will likely be time-based and cover you for a specific number of days per month or quarter. I will provide an estimate that explains in detail what's included and the related costs.
+### DIGITAL DEVELOPMENT
+You may ask me to develop certain digital asset(s) (e.g. a WordPress theme and/or plugins) for your use or the use of your direct client. I will provide you with a cost estimate for this work based on the information and design files you provide to me. If you amend the requirements or design after the estimate is provided to you there may be additional costs. I will always ask for your approval prior to carrying out work that will incur additional costs.
 
-USABILITY REVIEWS: You may ask me to carry out a usability review on a website or digital product belonging to you or your client that I have _not_ worked on. This may help you decide on improvements to make to an existing product. Any such review will be, by nature, subjective and based on my opinions and experience. Wherever possible I will support my recommendations with links to third-party sources such which may include research studies, books and articles.
+### AD-HOC SUPPORT
+You may ask me to provide ad-hoc support for you and your team which relates to a live website or digital product I have worked on. This will likely be time-based and cover you for a specific number of days per month or quarter. I will provide an estimate that explains in detail what's included and the related costs.
 
-PROCESS REVIEWS: You may ask me to carry out a review of your digital development process. Primary reasons for undertaking such a review might include: decreasing development time; increasing client satisfaction; and improving working relationships with suppliers but no guarantees can be made with regard to the advice I give. I will provide you with a cost estimate for the work based on your specific requirements. 
+### USABILITY REVIEWS
+You may ask me to carry out a usability review on a website or digital product belonging to you or your client that I have _not_ worked on. This may help you decide on improvements to make to an existing product. Any such review will be, by nature, subjective and based on my opinions and experience. Wherever possible I will support my recommendations with links to third-party sources such which may include research studies, books and articles.
+
+### PROCESS REVIEWS
+You may ask me to carry out a review of your digital development process. Primary reasons for undertaking such a review might include: decreasing development time; increasing client satisfaction; and improving working relationships with suppliers but no guarantees can be made with regard to the advice I give. I will provide you with a cost estimate for the work based on your specific requirements. 
 
 ## Transferral of copyright
 

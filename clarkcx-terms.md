@@ -21,16 +21,16 @@ I have the experience and ability to perform the services you need from me and I
 
 There are various types of work I may undertake for you including the following.
 
-### DIGITAL DEVELOPMENT
+### Digital development
 You may ask me to develop certain digital asset(s) (e.g. a WordPress theme and/or plugins) for your use or the use of your direct client. I will provide you with a cost estimate for this work based on the information and design files you provide to me. If you amend the requirements or design after the estimate is provided to you there may be additional costs. I will always ask for your approval prior to carrying out work that will incur additional costs.
 
-### AD-HOC SUPPORT
+### Ad-hoc support
 You may ask me to provide ad-hoc support for you and your team which relates to a live website or digital product I have worked on. This will likely be time-based and cover you for a specific number of days per month or quarter. I will provide an estimate that explains in detail what's included and the related costs.
 
-### USABILITY REVIEWS
+### Usability reviews
 You may ask me to carry out a usability review on a website or digital product belonging to you or your client that I have _not_ worked on. This may help you decide on improvements to make to an existing product. Any such review will be, by nature, subjective and based on my opinions and experience. Wherever possible I will support my recommendations with links to third-party sources such which may include research studies, books and articles.
 
-### PROCESS REVIEWS
+### Process reviews
 You may ask me to carry out a review of your digital development process. Primary reasons for undertaking such a review might include: decreasing development time; increasing client satisfaction; and improving working relationships with suppliers but no guarantees can be made with regard to the advice I give. I will provide you with a cost estimate for the work based on your specific requirements. 
 
 ## Transferral of copyright
